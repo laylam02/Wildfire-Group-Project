@@ -1,0 +1,3 @@
+git remote add origin https://github.com/ulissigroup/F22-06-325/tree/main/f22-06-325/projects/wildfires/data
+git branch -M main
+git push -u origin main
